@@ -20,9 +20,9 @@ jobs:
       - name: Generate pdf
         run: |
           npm install -g resume-cli
-          npm install jsonresume-theme-stackoverflow
-          resume export resume.pdf --theme=stackoverflow
-          resume export resume.html --theme=stackoverflow
+          npm install jsonresume-theme-elegant
+          resume export resume.pdf --theme=elegant
+          resume export resume.html --theme=elegant
       
       - name: Upload artifact
         uses: actions/upload-artifact@v3
