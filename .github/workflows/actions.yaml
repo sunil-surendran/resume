@@ -1,0 +1,26 @@
+name: Build Resume
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  resume-build:
+    name: JSON Resume Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      
+      - name: Install packages
+        run: |
+          npm install -g resume-cli
+          npm install -g jsonresume-theme-stackoverflow
+      
+      - name: Generate Resume
+        run: resume export resume.pdf --theme=stackoverflow
