@@ -1,37 +1,38 @@
 {
     "basics": {
         "name": "Sunil Surendran",
-        "label": "DevSecOps Engineer",
+        "label": "Dev Sec Ops Engineer",
         "image": "",
         "email": "sunil.surendran.cse@gmail.com",
-        "phone": "+91 9995577861",
+        "phone": "+91 999*******",
         "url": "https://sunilsurendran.com",
-        "summary": "A summary of John Doe…",
+        "summary": "A Cloud Engineer responsible for collabrating with different application team, engineers and developers to provide the best possible design solution",
         "location": {
-            "address": "Kannoly House, PO Pazhuvil",
-            "postalCode": "680564",
-            "city": "Thrissur",
-            "countryCode": "Kerala",
-            "region": "California"
+            "city": "Hyderabad",
+            "countryCode": "Telengana"
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "https://twitter.com/john"
+                "network": "LinkedIn",
+                "username": "sunil-surendran",
+                "url": "https://www.linkedin.com/in/sunil-surendran/"
             }
         ]
     },
     "work": [
         {
             "name": "KansoCloud",
-            "position": "DevOps Engineer",
+            "position": "Dev Sec Ops Engineer",
             "url": "https://www.kansocloud.com/",
             "startDate": "2021-05-17",
-            "endDate": "N/A",
-            "summary": "Working as DevSecOps Engineer…",
+            "endDate": "Present",
+            "summary": "An Engineer with expertise in AWS Cloud Solutions with hands-on experience in various automation and integration tools",
             "highlights": [
-                "Started the company"
+                "Setting up workflows to support Application Development Lifecycle",
+                "Developing Infrastructure as Code with best practices to deploy Foundational Networking layer",
+                "Application migration to Containerized environments like EKS, ECS",
+                "End to end delivery pipelines with necessary approval gates",
+                "Designing applications to be deployed on a serverless architecture like ECS."
             ]
         },
         {
@@ -40,9 +41,14 @@
             "url": "https://www.hitachivantara.com/",
             "startDate": "2018-10-01",
             "endDate": "2021-05-15",
-            "summary": "Working as DevSecOps Engineer…",
+            "summary": "Cloud Engineer with expertise in AWS Cloud Solutions with hands-on experience in various automation and integration tools.",
             "highlights": [
-                "Started the company"
+                "Setting up automation solutions using python scripts",
+                "Developing CloudOps automation solutions for internal use",
+                "Developed Ansible Playbook for configuring the Database and Application servers",
+                "Setting up pipeline for Continuos Integration and Continuos Delivery",
+                "Designing Landing Zone using IaaC tools like Terraform",
+                "Creating Proof of Concepts of working of SCCA Architecture on Azure platform"
             ]
         },
         {
@@ -51,9 +57,12 @@
             "url": "https://www.reancloud.com/",
             "startDate": "2018-05-22",
             "endDate": "2018-09-30",
-            "summary": "Working as DevSecOps Engineer…",
+            "summary": "Junior Cloud Engineer with expertise in AWS Cloud Services such as EC2, S3 and the networking components.",
             "highlights": [
-                "Started the company"
+                "Migration of applications into AWS",
+                "Developing Packer scripts to create golden AMIs for the pipeline",
+                "Developing Lambda Function scripts (Python) for automating Infrastructure tasks",
+                "Establishing connectivity between components following the concept for least privilege"
             ]
         }
     ],
@@ -62,72 +71,102 @@
             "institution": "Government Engineering College, Thrissur",
             "url": "https://gectcr.ac.in/",
             "area": "Computer Science Engineering",
-            "studyType": "Bachelor",
+            "studyType": "Bachelor of Technology",
             "startDate": "2007-06-01",
             "endDate": "2011-06-01"
         }
     ],
     "certificates": [
         {
-            "name": "AWS Solution Architect",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "AWS DevOps Engineer - Professional",
+            "date": "2021-11-01",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/3ae7901e-261d-45b2-b12c-ee12f3be9bd7"
         },
         {
-            "name": "AWS Developer",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "AWS Certified Solutions Architect - Professional",
+            "date": "2021-10-01",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/30f8acd2-0338-4e27-af48-fc8a5212ba63"
         },
         {
-            "name": "AWS Sysops",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "Amazon Web Services SysOps Administrator - Associate",
+            "date": "2019-12-01",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/f32b915b-38ec-4313-acd6-b2188c61c51b"
         },
         {
-            "name": "AWS Developer",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "AWS Certified Developer - Associate",
+            "date": "2018-11-01",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/ac50d388-5a75-414c-9b33-f331e607b92e"
         },
         {
-            "name": "AWS Solution Architect Associate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "AWS Certified Solutions Architect - Associate",
+            "date": "2018-10-01",
+            "issuer": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/dd0b70f8-2a2e-4bde-ac00-3e4f9464560d"
         },
         {
-            "name": "Redhat Engineer",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "name": "Red Hat Certified Engineer",
+            "date": "2018-03-01",
+            "issuer": "Red Hat"
         },
         {
-            "name": "Redhat CSA",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
+            "name": "Red Hat Certified System Administrator",
+            "date": "2018-01-01",
+            "issuer": "Red Hat"
         }
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Public Cloud",
+            "level": "Master",
+            "keywords": [
+                "AWS",
+                "Azure"
+            ]
+        },
+        {
+            "name": "Version Control Systems",
             "level": "Master",
             "keywords": [
                 "HTML",
                 "CSS",
                 "JavaScript"
+            ]
+        },
+        {
+            "name": "Configuration Management",
+            "level": "Master",
+            "keywords": [
+                "Ansible",
+                "Chef"
+            ]
+        },
+        {
+            "name": "Scripting",
+            "level": "Master",
+            "keywords": [
+                "Python",
+                "Bash",
+                "Powershell"
+            ]
+        },
+        {
+            "name": "Infrastructure as Code",
+            "level": "Master",
+            "keywords": [
+                "Terraform",
+                "Cloudformation"
+            ]
+        },
+        {
+            "name": "CICD Tools",
+            "level": "Master",
+            "keywords": [
+                "Jenkins",
+                "Github Actions"
             ]
         }
     ],
@@ -135,41 +174,6 @@
         {
             "language": "English",
             "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": [
-                "Ferrets",
-                "Unicorns"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Project",
-            "description": "Description…",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "keywords": [
-                "HTML"
-            ],
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "url": "https://project.com/",
-            "roles": [
-                "Team Lead"
-            ],
-            "entity": "Entity",
-            "type": "application"
         }
     ],
     "meta": {
