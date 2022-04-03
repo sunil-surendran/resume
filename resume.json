@@ -1,17 +1,17 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Sunil Surendran",
+        "label": "DevSecOps Engineer",
         "image": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "url": "https://johndoe.com",
+        "email": "sunil.surendran.cse@gmail.com",
+        "phone": "+91 9995577861",
+        "url": "https://sunilsurendran.com",
         "summary": "A summary of John Doe…",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
+            "address": "Kannoly House, PO Pazhuvil",
+            "postalCode": "680564",
+            "city": "Thrissur",
+            "countryCode": "Kerala",
             "region": "California"
         },
         "profiles": [
@@ -24,55 +24,88 @@
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
+            "name": "KansoCloud",
+            "position": "DevOps Engineer",
+            "url": "https://www.kansocloud.com/",
+            "startDate": "2021-05-17",
+            "endDate": "N/A",
+            "summary": "Working as DevSecOps Engineer…",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Hitachi Vantara",
+            "position": "Cloud Engineer",
+            "url": "https://www.hitachivantara.com/",
+            "startDate": "2018-10-01",
+            "endDate": "2021-05-15",
+            "summary": "Working as DevSecOps Engineer…",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "REAN Cloud",
+            "position": "Junior Cloud Engineer",
+            "url": "https://www.reancloud.com/",
+            "startDate": "2018-05-22",
+            "endDate": "2018-09-30",
+            "summary": "Working as DevSecOps Engineer…",
             "highlights": [
                 "Started the company"
             ]
         }
     ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
-        }
-    ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
+            "institution": "Government Engineering College, Thrissur",
+            "url": "https://gectcr.ac.in/",
+            "area": "Computer Science Engineering",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "score": "4.0",
-            "courses": [
-                "DB1101 - Basic SQL"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "startDate": "2007-06-01",
+            "endDate": "2011-06-01"
         }
     ],
     "certificates": [
         {
-            "name": "Certificate",
+            "name": "AWS Solution Architect",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "AWS Developer",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "AWS Sysops",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "AWS Developer",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "AWS Solution Architect Associate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "Redhat Engineer",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "Redhat CSA",
             "date": "2021-11-07",
             "issuer": "Company",
             "url": "https://certificate.com"
