@@ -138,5 +138,9 @@
             "entity": "Entity",
             "type": "application"
         }
-    ]
+    ],
+    "meta": {
+        "theme": "stackoverflow"
+    }
+}
 }
