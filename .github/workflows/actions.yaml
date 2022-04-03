@@ -23,5 +23,5 @@ jobs:
           npm install -g jsonresume-theme-stackoverflow
       
       - name: Generate Resume
-        working-directory: resume
+        # working-directory: resume
         run: resume export resume.pdf --theme=stackoverflow
